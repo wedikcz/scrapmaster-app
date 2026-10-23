@@ -1,0 +1,6 @@
+{
+  "name": "ScrapMaster AI",
+  "description": "Multimodal reverse-engineering & e-waste workshop suite with component scanner, inventory, pinouts, kanban, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
